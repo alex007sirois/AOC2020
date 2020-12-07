@@ -1,0 +1,4 @@
+ruby '2.7.2'
+
+gem 'robocup', group: :development
+gem 'solargraph', group: :development
